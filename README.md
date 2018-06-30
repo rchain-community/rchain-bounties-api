@@ -1,7 +1,7 @@
 # RChain bounties network API
 
 ## Description
-Code for the shopkeeper portal located at [myshop.near.st](https://myshop.near.st).
+A new general API for the RChain bounties platform. This allows anyone to create an interface for the RChain bounties platform.
 
 ## Project status
 
