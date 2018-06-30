@@ -21,7 +21,7 @@ Follow these steps to get started:
 3. Install the dependencies `npm install`
 4. Run a local database with [this SQL file](https://rewards.rchain.coop/db-bak/2018-06-27.sql.gz) as source
 5. Change the URL of the database in .env to the location your local database is located
-4. Start the local server: `PORT=3000 npm start` (the port can be any port you like)
+6. Start the local server: `PORT=3000 npm start` (the port can be any port you like)
 
 You can now send requests to `localhost:3000`. Keep the terminal command running in the background, and you can start developing.
 
