@@ -10,6 +10,8 @@ This project is divided in 2 stages:
 1. Read only API that uses the existing [rewards.rchain.coop](https://rewards.rchain.coop) database as source.
 2. Read and write API where features like voting and the trust metric are implemented.
 
+As of this moment in time the first stage is being developed.
+
 ## Getting Started
 
 Follow these steps to get started:
