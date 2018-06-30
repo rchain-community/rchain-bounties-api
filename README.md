@@ -1,6 +1,5 @@
 # RChain bounties network API
 
-## Description
 A new general API for the RChain bounties platform. This allows anyone to create an interface for the RChain bounties platform. 
 
 (This project could also potentially serve as an easy entry point to the data once the bounty system is migrated to the RChain blockchain network. Induviduals could host their own versions of this API and bounty user interfaces could provide users a selection of APIs to choose from.)
