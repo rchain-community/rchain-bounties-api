@@ -15,7 +15,7 @@ This project is divided in 2 stages:
 Follow these steps to get started:
 
 1. Clone the repo with `git clone https://github.com/th3build/rchain-bounties-api.git`
-2. Go to the root of the directory `cd rchain-bounties-appt`
+2. Go to the root of the directory `cd rchain-bounties-api`
 3. Install the dependencies `npm install`
 4. Run a local database with [this SQL file](https://rewards.rchain.coop/db-bak/2018-06-27.sql.gz) as source
 5. Change the URL of the database in .env to the location your local database is located
