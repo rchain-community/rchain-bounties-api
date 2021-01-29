@@ -19,7 +19,7 @@
   "homepage": "https://github.com/th3build/rchain-bounties-api#readme",
   "dependencies": {
     "github-api": "^3.0.0",
-    "hapi": "^17.5.2",
+    "hapi": "^17.8.5",
     "mysql2": "^1.5.3",
     "octonode": "^0.9.2",
     "redis": "^2.8.0",
